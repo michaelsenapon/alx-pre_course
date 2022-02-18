@@ -1,5 +1,0 @@
-Git Command Line
-cd .. {will change your directory to the parent directory}
-{echo "It is good" > file} will create file and have "It is good as content
-{git add .} will add all new files created
-{git commit -m "My first readme"} will commit your work
